@@ -1151,6 +1151,7 @@ Then run:
 ```sh
 npm run deploy
 ```
+> Note: Before deployment, please add remote repository with name `origin`.    
 
 #### Step 4: Ensure your project's settings use `gh-pages`
 
